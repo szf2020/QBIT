@@ -1088,6 +1088,25 @@ body {
   height: 100%;
   overflow-y: auto;
   padding: 72px 24px 24px;
+  scrollbar-width: thin;
+  scrollbar-color: var(--border) var(--bg-primary);
+}
+
+.library-page::-webkit-scrollbar {
+  width: 8px;
+}
+
+.library-page::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+
+.library-page::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 4px;
+}
+
+.library-page::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
 }
 
 .library-header {
