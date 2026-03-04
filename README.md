@@ -63,7 +63,7 @@
 
 ## Features
 
-QBIT is a retro robot-style desk companion that works like a personal BB call. Once connected to the [QBIT Network](https://qbit.labxcloud.com), anyone can [poke](#poke) your QBIT and send it messages; you can also connect and interact with other QBITs on the network. When idle, QBIT shows random expressions that change with its mood. You can browse the [Library](#library) to download community-uploaded custom animations and [upload them to your own device](#device-dashboard). QBIT integrates with [Home Assistant via MQTT](#mqtt--home-assistant)—Home Assistant can read the poke message and trigger different automations based on the content. Here is a [simple example](https://www.youtube.com/shorts/C_3Uz9TOPBY); feel free to share your own setups.
+QBIT is a retro robot-style desk companion that works like a personal BB call. Once connected to the [QBIT Network](https://qbit.labxcloud.com), anyone can [poke](#poke) your QBIT and send it messages; you can also connect and interact with other QBITs on the network. When idle, QBIT shows random expressions that change with its mood. You can browse the [Library](#library) to download community-uploaded custom animations and [upload them to your own device](#device-dashboard). QBIT integrates with [Home Assistant via MQTT](#mqtt--home-assistant)—Home Assistant can read the poke message and trigger different automations based on the content. Here is a [simple example](https://www.youtube.com/shorts/C_3Uz9TOPBY); feel free to share your own setups. XD
 
 ---
 

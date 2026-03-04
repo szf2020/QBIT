@@ -8,7 +8,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/seanchangx/QBIT)](https://github.com/seanchangx/QBIT)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Platform](https://img.shields.io/badge/Platform-ESP32--C3-green.svg)](#hardware-requirements)
+[![Platform](https://img.shields.io/badge/Platform-ESP32--C3-green.svg)](#硬體需求)
 [![Web Platform](https://img.shields.io/badge/Web-qbit.labxcloud.com-purple.svg)](https://qbit.labxcloud.com)
 [![release](https://img.shields.io/github/v/release/seanchangx/QBIT)](https://github.com/seanchangx/QBIT/releases)
 
@@ -63,7 +63,7 @@
 
 ## 專案簡介
 
-QBIT 是一款復古機器人造型的桌面陪伴裝置，就像專屬的 BB Call。連上 [QBIT Network](https://qbit.labxcloud.com) 後，世界上任何人都可以[戳一下（poke）](#poke)你的 QBIT、傳送訊息，你也可以和其他 QBIT 交朋友、互相聯絡。平常沒事時，QBIT 會依心情顯示不同的隨機表情。你可以在 [素材庫](#library) 下載社群上傳的客製化動畫，[上傳到自己的 QBIT](#裝置儀表板)上分享。QBIT 也支援 [透過 MQTT 連動 Home Assistant](#mqtt-與-home-assistant)，Home Assistant 可根據收到的 poke 訊息內容觸發不同的自動化。這裡有個簡單的[示例](https://www.youtube.com/shorts/C_3Uz9TOPBY)，歡迎分享你的做法 xd。
+QBIT 是一款復古機器人造型的桌面陪伴裝置，就像專屬的 BB Call。連上 [QBIT Network](https://qbit.labxcloud.com) 後，世界上任何人都可以[戳一下（poke）](#poke)你的 QBIT、傳送訊息，你也可以和其他 QBIT 交朋友、互相聯絡。平常沒事時，QBIT 會依心情顯示不同的隨機表情。你可以在 [素材庫](#library) 下載社群上傳的客製化動畫，[上傳到自己的 QBIT](#裝置儀表板)上分享。QBIT 也支援 [透過 MQTT 連動 Home Assistant](#mqtt-與-home-assistant)，Home Assistant 可根據收到的 poke 訊息內容觸發不同的自動化。這裡有個簡單的[示例](https://www.youtube.com/shorts/C_3Uz9TOPBY)，歡迎分享你的做法 XD
 
 ---
 
